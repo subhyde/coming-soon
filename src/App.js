@@ -42,17 +42,18 @@ class App extends React.Component {
                   </g>
               </svg>
           </div>
-          <div className="social">
-            <a href="https://www.linkedin.com/in/ethan-johnson-654513170/" title="LinkedIn" target="_blank" rel="noopener noreferrer">
-              <FaLinkedinIn className="icon" />
-            </a>
-          </div>
+
         </div>
         <div className="content">
           <div className="title-holder">
             <h1>OPENBEACH</h1>
             <p>Coming Soon.</p>
           </div>
+            <div className="social">
+                <a href="https://www.linkedin.com/in/ethan-johnson-654513170/" title="LinkedIn" target="_blank" rel="noopener noreferrer">
+                    <FaLinkedinIn className="icon" />
+                </a>
+            </div>
 
         </div>
         <div className="footer">
